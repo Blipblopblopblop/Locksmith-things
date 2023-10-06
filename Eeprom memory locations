@@ -1,6 +1,14 @@
 BMW : 
-    ECU EEPROM (DME DDE):
+    ECU EEPROM (DME DDE) :
         EDC16cp35 ISN location Short ISN (FF FF): 
             0x42 - 0x43
             0x82 - 0x83
             0xC2 - 0xC3
+        EDC16C31 ISN:
+            0x782 - 0x783
+            0x7A2 - 0x7A3
+            0x7C2 - 0x7C3
+        EDC17C06 ISN:
+            0x10108 - 0x10117
+            0x10188 - 0x10197
+            0x10208 - 0x10217
