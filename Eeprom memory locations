@@ -1,5 +1,8 @@
+
 BMW : 
     ECU EEPROM (DME DDE) :
+        Notes:
+            ISN should be the same for all memory locations in your specific ECU
         EDC16cp35 ISN location Short ISN (FF FF): 
             0x42 - 0x43
             0x82 - 0x83
